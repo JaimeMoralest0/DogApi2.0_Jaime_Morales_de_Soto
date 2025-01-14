@@ -1,0 +1,7 @@
+<resources>
+    <string name="breed_name">Nombre de la raza</string>
+    <string name="breed_image">Imagen de la raza</string>
+    <string name="app_name">DogApi</string>
+
+
+</resources>
